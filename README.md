@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **office@djokicf.com**
 
-👋 Hi, I’m a Webflow Developer.
+👋 Hi, I’m a Web Developer.
 
 🏙️ Currently located in Serbia. I enjoy creating modern web designs along with converting them into interactive websites with Webflow.
 
