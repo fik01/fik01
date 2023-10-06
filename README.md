@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip Đokić</h1>
-<h3 align="center">A passionate guy</h3>
+<h3 align="center">Let's grab a coffee together.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.djokicf.com/](https://www.djokicf.com/)
 
