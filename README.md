@@ -30,7 +30,7 @@
 ✍️ Copywriting - Words matter! Let’s craft some killer copy that tells your story and sells your vision, all in a tone that sounds like, well, you!
 
 In short...
-"I want to make change..."
+"I want to make change..."\n
 "I want to integrate..."
 "I want to add..."
 "I want to transform..."
