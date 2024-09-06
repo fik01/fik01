@@ -29,22 +29,22 @@
 
 ✍️ Copywriting - Words matter! Let’s craft some killer copy that tells your story and sells your vision, all in a tone that sounds like, well, you!
 
-In short...
+In short...<br>
 "I want to make change..."<br>
-"I want to integrate..."
-"I want to add..."
-"I want to transform..."
-"I need better copy..."
-"I need better SEO..."
-"I need to optimize..."
-"I need a landing page..."
-"I need a sales page..."
-"I want a blog..."
-"I want an ecommerce..."
-"I want to sell more..."
-"I want to make more..."
-"I just want to say hi..."
-"I want to kiss Margot Robbie..."
+"I want to integrate..."<br>
+"I want to add..."<br>
+"I want to transform..."<br>
+"I need better copy..."<br>
+"I need better SEO..."<br>
+"I need to optimize..."<br>
+"I need a landing page..."<br>
+"I need a sales page..."<br>
+"I want a blog..."<br>
+"I want an ecommerce..."<br>
+"I want to sell more..."<br>
+"I want to make more..."<br>
+"I just want to say hi..."<br>
+"I want to kiss Margot Robbie..."<br>
 
 Relax. You’ve come to the right place.
 
