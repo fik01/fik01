@@ -9,7 +9,7 @@ Hi brother. It's simple...
 
 🚀 I help you leap from the 'OK' to the 'WOW' website.
 
-📈 I help you boost conversions from 0 to 1, from 1 to 10, from 10% to 100, and from 100 to 1000.
+📈 I help you boost conversions from 0 to 1, from 1 to 10, from 10 to 100, and from 100 to 1000.
 
 🧠 I help you not sound silly online.
 
