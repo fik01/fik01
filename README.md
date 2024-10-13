@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip Đokić</h1>
-<h3 align="center">Let's grab a coffee together.</h3>
+<h3 align="center">Let's grab a lemonade together.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.djokicf.com/](https://www.djokicf.com/)
+- 👨‍💻 All you need is available at [https://www.djokicf.com/](https://www.djokicf.com/)
 
 - 📫 How to reach me **office@djokicf.com**
 
